@@ -3,7 +3,7 @@ new TypeIt("#lywry", {
     cursorSpeed: 1000,
     speed: 100
 })
-    .type("xunyue")
+    .type("xuyue")
     .pause(2000)
     .delete(null, {
         delay: 500
