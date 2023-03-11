@@ -3,12 +3,12 @@ new TypeIt("#lywry", {
     cursorSpeed: 1000,
     speed: 100
 })
-    .type("你好呀！")
+    .type("你好呀")
     .pause(2000)
     .delete(null, {
         delay: 500
     })
-    .type("感谢有你")
+    .type("请仔细看完哦！")
     .pause(3000)
     .go();
 
